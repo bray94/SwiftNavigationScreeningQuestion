@@ -111,7 +111,6 @@ def main():
 		unittest.main()
 	else:
 		rt = F(9)
-		print rt
 
 class MyTest(unittest.TestCase):
 	# Generate no numbers
